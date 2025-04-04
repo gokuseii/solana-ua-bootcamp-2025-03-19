@@ -1,0 +1,16 @@
+# Compiled output
+/target/
+
+# Dependency directories
+/Cargo.lock
+/.cargo/
+
+# Test output
+/tests/*.log
+/tests/test-*.log
+
+# Rust-specific
+/.idea/
+/.vscode/
+/*.swp
+*.rs.bk
